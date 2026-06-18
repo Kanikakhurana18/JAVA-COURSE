@@ -6,6 +6,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseEachWordInString",
+      "request": "launch",
+      "mainClass": "strings.ReverseEachWordInString",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "EasyString",
+      "request": "launch",
+      "mainClass": "strings.EasyString",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "StringCompression",
+      "request": "launch",
+      "mainClass": "strings.StringCompression",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "NonRepeatingCharacter",
+      "request": "launch",
+      "mainClass": "strings.NonRepeatingCharacter",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "MostFrequentCharacter",
+      "request": "launch",
+      "mainClass": "strings.MostFrequentCharacter",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Anagram",
+      "request": "launch",
+      "mainClass": "strings.Anagram",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Basics",
+      "request": "launch",
+      "mainClass": "strings.Basics",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ReverseStringUsingStringBuilder",
+      "request": "launch",
+      "mainClass": "strings.ReverseStringUsingStringBuilder",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilders",
+      "request": "launch",
+      "mainClass": "strings.StringBuilders",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Immutablity",
+      "request": "launch",
+      "mainClass": "strings.Immutablity",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "SumOfAllSubstringOfNumber",
+      "request": "launch",
+      "mainClass": "strings.SumOfAllSubstringOfNumber",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
