@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseWordInStringLeetcode",
+      "request": "launch",
+      "mainClass": "strings.ReverseWordInStringLeetcode",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "ReverseEachWordInString",
       "request": "launch",
       "mainClass": "strings.ReverseEachWordInString",
