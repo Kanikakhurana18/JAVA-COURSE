@@ -3,7 +3,7 @@ package strings;
 public class ReverseWordInStringLeetcode {
   public static void main(String[] args) {
     String s = "Hello World   ";
-    // Tc = O(n) and SC= o(n) beacsue you are using string builder
+    // Tc = O(n) and SC= o(n) because you are using string builder
         StringBuilder ans = new StringBuilder();
         int i= s.length()-1; //end position
         while(i>=0){
@@ -49,7 +49,7 @@ public class ReverseWordInStringLeetcode {
 
     
 
-        //Using Built in methos but takes extra space O(N) TC= O(N)
+        //Using Built in methods but takes extra space O(N) TC= O(N)
         // String[] arr = s.trim().split("\\s+");
 
         // StringBuilder ans = new StringBuilder();

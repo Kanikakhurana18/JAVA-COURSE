@@ -6,11 +6,12 @@ public class ReverseEachWordInString {
   public static void main(String[] args) {
     // String s = "   i like this program very much    ";
     // //trim: s = " i like this program very much "
-    // System.out.println(s.trim()); //O(1) extra space ek naya array bana raha hai.
+    // System.out.println(s.trim()); //O(n) extra space ek naya array bana raha hai.
     // String[] words = s.trim().split("\\s+");
     // //String ko words me tod deta ha Yahan multiple spaces ko separator maana gaya.
     //     // This will now print the words nicely as an array: [i, like, this, program, very, much]
-    //     System.out.println("Split words: " + Arrays.deepToString(words));//array ke har element ko string bana ke return karta hai.
+    //     System.out.println("Split words: " + Arrays.toString(words));//array ke har element ko string bana ke return karta hai.
+                              //Arrays.deepToString ye 2d array ke liye hia
     //     String[] arr = s.split(" ");
         //"  hello   world  " op ["", "", "hello", "", "", "world"] Empty strings bhi aa jaati hain
 
@@ -30,10 +31,7 @@ public class ReverseEachWordInString {
         System.out.println(ans.toString());
     
 
-        
-        
-        
-     //Two Pointer + StringBuilder tc O(n) and sc= O(n)
+  //Two Pointer + StringBuilder tc O(n) and sc= O(n)
         //  StringBuilder ans = new StringBuilder();
         //  int i = 0;
         //  int n = s.length();

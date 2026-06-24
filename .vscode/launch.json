@@ -6,6 +6,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "recursion.ReverseString",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "recursion.ReverseNumber",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "loops.ReverseNumber",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "aRaisedToPowerb",
+      "request": "launch",
+      "mainClass": "recursion.aRaisedToPowerb",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "FactorialNumber",
+      "request": "launch",
+      "mainClass": "recursion.FactorialNumber",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PrintDecreasingIncreasingNumbers",
+      "request": "launch",
+      "mainClass": "recursion.PrintDecreasingIncreasingNumbers",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "GlobalAndLocalVariable",
+      "request": "launch",
+      "mainClass": "recursion.GlobalAndLocalVariable",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PrintNumber1ToN",
+      "request": "launch",
+      "mainClass": "recursion.PrintNumber1ToN",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "ReverseWordInStringLeetcode",
       "request": "launch",
       "mainClass": "strings.ReverseWordInStringLeetcode",
