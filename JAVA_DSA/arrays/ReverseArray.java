@@ -15,7 +15,7 @@ public class ReverseArray {
     // }
 
     //using while loop-> alse helps in reversing part of array(subarray)
-    int i=1,j=2; // revsre a part of array(subarray)
+    int i=1,j=2; // reverse a part of array(subarray)
     while(i<j){
       int temp=arr[i];
       arr[i]=arr[j];

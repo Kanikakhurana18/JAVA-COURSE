@@ -6,6 +6,111 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LastOccurence",
+      "request": "launch",
+      "mainClass": "recursion.LastOccurence",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ReverseArray",
+      "request": "launch",
+      "mainClass": "recursion.ReverseArray",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ReverseArray",
+      "request": "launch",
+      "mainClass": "arrays.ReverseArray",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "FirstOccurence",
+      "request": "launch",
+      "mainClass": "recursion.FirstOccurence",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "recursion.BinarySearch",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "LinearBinarySearch",
+      "request": "launch",
+      "mainClass": "recursion.LinearBinarySearch",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ArraysRecursion",
+      "request": "launch",
+      "mainClass": "recursion.ArraysRecursion",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "UniquePaths",
+      "request": "launch",
+      "mainClass": "recursion.UniquePaths",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "nthStair",
+      "request": "launch",
+      "mainClass": "recursion.nthStair",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "LCM",
+      "request": "launch",
+      "mainClass": "recursion.LCM",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "loops.Fibonacci",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "recursion.Fibonacci",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "GCD",
+      "request": "launch",
+      "mainClass": "recursion.GCD",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PowerOfNumbers",
+      "request": "launch",
+      "mainClass": "recursion.PowerOfNumbers",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "SumOfNaturalNumber",
+      "request": "launch",
+      "mainClass": "recursion.SumOfNaturalNumber",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "ReverseString",
       "request": "launch",
       "mainClass": "recursion.ReverseString",
