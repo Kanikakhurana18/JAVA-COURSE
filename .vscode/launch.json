@@ -6,6 +6,97 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReversePairs",
+      "request": "launch",
+      "mainClass": "mergeSort.ReversePairs",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "CountInversions",
+      "request": "launch",
+      "mainClass": "mergeSort.CountInversions",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Code",
+      "request": "launch",
+      "mainClass": "mergeSort.Code",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "basicSorting.BubbleSort",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "KthSymbolGrammar",
+      "request": "launch",
+      "mainClass": "recursion.KthSymbolGrammar",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "LookAndSay",
+      "request": "launch",
+      "mainClass": "recursion.LookAndSay",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "TowerOfHanoi",
+      "request": "launch",
+      "mainClass": "recursion.TowerOfHanoi",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PreInPost",
+      "request": "launch",
+      "mainClass": "recursion.PreInPost",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "GenerateParenthesis",
+      "request": "launch",
+      "mainClass": "recursion.GenerateParenthesis",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "SubsetSum",
+      "request": "launch",
+      "mainClass": "recursion.SubsetSum",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PowerSet",
+      "request": "launch",
+      "mainClass": "recursion.PowerSet",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PrintSubsetsOfString",
+      "request": "launch",
+      "mainClass": "recursion.PrintSubsetsOfString",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Strings",
+      "request": "launch",
+      "mainClass": "recursion.Strings",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "LastOccurence",
       "request": "launch",
       "mainClass": "recursion.LastOccurence",

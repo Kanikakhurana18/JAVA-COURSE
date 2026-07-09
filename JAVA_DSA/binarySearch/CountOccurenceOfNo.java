@@ -7,7 +7,7 @@ public class CountOccurenceOfNo { //count=last-first+1;()
     int count=0;
     int first= firstOccurence(arr,tar);
     int last= lastOccurence(arr,tar);
-    if(first != -1)
+    if(first != -1)//element exist nhi krta then last search will not get called
             count = last - first + 1;
         else
             count = 0;
