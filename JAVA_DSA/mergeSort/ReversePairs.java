@@ -23,8 +23,8 @@ public class ReversePairs {
     int idx = 0;
     for (int i = 0; i < a.length; i++)
       a[i] = arr[idx++];
-    for (int i = 0; i < b.length; i++)
-      b[i] = arr[idx++];
+    for (int j = 0; j < b.length; j++)
+      b[j] = arr[idx++];
     mergesort(a);
     mergesort(b);
     merge(a, b, arr);
@@ -42,7 +42,7 @@ public class ReversePairs {
       // }
       count += j;
     }
-    // count after recusion by merging them
+    // count after recursion by merging them
     int i = 0, k = 0;
     j = 0; // as j is alredy defined at top
     while (i < a.length && j < b.length) {

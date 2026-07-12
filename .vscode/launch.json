@@ -6,6 +6,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayDuplicatesMoreThanOneNumber",
+      "request": "launch",
+      "mainClass": "cyclicSort.ArrayDuplicatesMoreThanOneNumber",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "SingleNumberDuplicate",
+      "request": "launch",
+      "mainClass": "cyclicSort.SingleNumberDuplicate",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "FirstMissingPositive",
+      "request": "launch",
+      "mainClass": "cyclicSort.FirstMissingPositive",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "SetMismatch",
+      "request": "launch",
+      "mainClass": "cyclicSort.SetMismatch",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "AllNumberDisappearedinArray",
+      "request": "launch",
+      "mainClass": "cyclicSort.AllNumberDisappearedinArray",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ArrayDuplicates",
+      "request": "launch",
+      "mainClass": "cyclicSort.ArrayDuplicates",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "MissingInArray",
+      "request": "launch",
+      "mainClass": "cyclicSort.MissingInArray",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "BasicCode",
+      "request": "launch",
+      "mainClass": "cyclicSort.BasicCode",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "MissingInArray",
+      "request": "launch",
+      "mainClass": "arrays.MissingInArray",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "ReversePairs",
       "request": "launch",
       "mainClass": "mergeSort.ReversePairs",
