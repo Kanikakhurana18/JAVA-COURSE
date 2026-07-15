@@ -6,6 +6,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayListOwnClass",
+      "request": "launch",
+      "mainClass": "oops.ArrayListOwnClass",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "oops.Inheritance",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "FractionClass",
+      "request": "launch",
+      "mainClass": "oops.FractionClass",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ComplexNumberClass",
+      "request": "launch",
+      "mainClass": "oops.ComplexNumberClass",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "FinalStatic",
+      "request": "launch",
+      "mainClass": "oops.FinalStatic",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ThisKeyword",
+      "request": "launch",
+      "mainClass": "oops.ThisKeyword",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Constructors",
+      "request": "launch",
+      "mainClass": "oops.Constructors",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PrivateKeyword",
+      "request": "launch",
+      "mainClass": "oops.PrivateKeyword",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Polymorphism",
+      "request": "launch",
+      "mainClass": "oops.Polymorphism",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PassingObjectsToMethods",
+      "request": "launch",
+      "mainClass": "oops.PassingObjectsToMethods",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "UserDefinedDataType",
+      "request": "launch",
+      "mainClass": "oops.UserDefinedDataType",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "ArrayDuplicatesMoreThanOneNumber",
       "request": "launch",
       "mainClass": "cyclicSort.ArrayDuplicatesMoreThanOneNumber",
