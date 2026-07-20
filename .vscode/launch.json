@@ -6,6 +6,139 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PalindromeLinkedList",
+      "request": "launch",
+      "mainClass": "linkedList.PalindromeLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ReverseLinkedList",
+      "request": "launch",
+      "mainClass": "linkedList.ReverseLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "OddEvenLinkedListLeetcode",
+      "request": "launch",
+      "mainClass": "linkedList.OddEvenLinkedListLeetcode",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "HappyNumber",
+      "request": "launch",
+      "mainClass": "linkedList.HappyNumber",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PartitionList",
+      "request": "launch",
+      "mainClass": "linkedList.PartitionList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "MergeSortForLinkedList",
+      "request": "launch",
+      "mainClass": "linkedList.MergeSortForLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "Merge2SortedLinkedList",
+      "request": "launch",
+      "mainClass": "linkedList.Merge2SortedLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "RotateListRight",
+      "request": "launch",
+      "mainClass": "linkedList.RotateListRight",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicateSortedList2",
+      "request": "launch",
+      "mainClass": "linkedList.RemoveDuplicateSortedList2",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicatesSortedList",
+      "request": "launch",
+      "mainClass": "linkedList.RemoveDuplicatesSortedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "FirstNodeOfLoop",
+      "request": "launch",
+      "mainClass": "linkedList.FirstNodeOfLoop",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "DetectLoopInList",
+      "request": "launch",
+      "mainClass": "linkedList.DetectLoopInList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "IntersectionOfTwoList",
+      "request": "launch",
+      "mainClass": "linkedList.IntersectionOfTwoList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "SwappingNodes",
+      "request": "launch",
+      "mainClass": "linkedList.SwappingNodes",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "RemoveNthNodeFromEndLis",
+      "request": "launch",
+      "mainClass": "linkedList.RemoveNthNodeFromEndLis",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "MiddleAndAllQuesClassListNodeOfLinkedList",
+      "request": "launch",
+      "mainClass": "linkedList.MiddleAndAllQuesClassListNodeOfLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "DeleteMiddleOfLinkedList",
+      "request": "launch",
+      "mainClass": "linkedList.DeleteMiddleOfLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "MiddleOfLinkedList",
+      "request": "launch",
+      "mainClass": "linkedList.MiddleOfLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ClassLinkedListCode",
+      "request": "launch",
+      "mainClass": "linkedList.ClassLinkedListCode",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "ArrayListOwnClass",
       "request": "launch",
       "mainClass": "oops.ArrayListOwnClass",

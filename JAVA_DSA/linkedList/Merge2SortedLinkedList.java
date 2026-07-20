@@ -1,0 +1,31 @@
+package linkedList;
+
+public class Merge2SortedLinkedList {//TC=O(n+m) SC=O
+  public static void main(String[] args) {
+    ListNode head1 = ListNode.createList();//createList method ListNode class ke andar hai.
+    ListNode head2 = ListNode.createList();//createList method ListNode class ke andar hai.
+    ListNode ans = mergeTwoLists(head1, head2);
+    System.out.print("After: ");
+    ListNode.display(ans);
+  }
+  public static ListNode mergeTwoLists(ListNode head1, ListNode head2) {
+        ListNode i= head1;
+        ListNode j= head2;
+        ListNode dummy= new ListNode(-1);
+        ListNode k= dummy;
+        while(i!=null && j!= null){
+            if(i.val<= j.val){
+                k.next= i;
+                i=i.next;
+            }
+            else{
+                k.next=j;
+                j= j.next;
+            }
+            k= k.next;
+        }
+        if(i==null) k.next=j;
+        else k.next=i;
+        return dummy.next;
+    }
+}
