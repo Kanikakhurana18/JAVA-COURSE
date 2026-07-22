@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseSublist",
+      "request": "launch",
+      "mainClass": "linkedList.ReverseSublist",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "MergeKsortedpsvLL",
+      "request": "launch",
+      "mainClass": "linkedList.MergeKsortedpsvLL",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ReorderLinkedList",
+      "request": "launch",
+      "mainClass": "linkedList.ReorderLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "PalindromeLinkedList",
       "request": "launch",
       "mainClass": "linkedList.PalindromeLinkedList",
