@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ConvertToCircular",
+      "request": "launch",
+      "mainClass": "linkedList.ConvertToCircular",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "TraversalCircularLL",
+      "request": "launch",
+      "mainClass": "linkedList.TraversalCircularLL",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "ReverseSublist",
       "request": "launch",
       "mainClass": "linkedList.ReverseSublist",

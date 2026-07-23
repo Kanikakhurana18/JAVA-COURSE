@@ -40,9 +40,9 @@ public class ReverseSublist{
         tail1.next=null;
         tail2.next=null;
 
-        reverse(head2);
+        reverse(head2); //or revhead= reverse(head2)
 
-        tail1.next=tail2;
+        tail1.next=tail2; //or tail1.next=revhead
         head2.next=head3;
         return dummy.next;
 
