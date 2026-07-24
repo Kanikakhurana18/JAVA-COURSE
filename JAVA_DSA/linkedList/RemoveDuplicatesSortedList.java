@@ -12,25 +12,26 @@ public class RemoveDuplicatesSortedList {
     ListNode.display(head);
   }
   public static ListNode deleteDuplicates(ListNode head) {
-    ListNode curr= head;
-        while(curr!=null && curr.next!=null){
-            if(curr.val==curr.next.val) curr.next=curr.next.next;
-            else curr= curr.next;
-        }
-        return head;
+    // ListNode curr= head;
+    //     while(curr!=null && curr.next!=null){
+    //         if(curr.val==curr.next.val) curr.next=curr.next.next;
+    //         else curr= curr.next;
+    //     }
+    //     return head;
 
         //OR
-        // if(head==null) return null;
-        // ListNode i= head;
-        // ListNode j= head;
-        // while(j!=null){
-        //     if(i.val==j.val) j= j.next;
-        //     else{
-        //         i.next=j;
-        //         i=j;
-        //     }
-        // }
-        //  i.next=j;
-        //  return head;
+        if(head==null) return null;
+        ListNode i= head;
+        ListNode j= head; //Or j= head.next;
+        while(j!=null){
+            if(i.val==j.val) j= j.next;
+            else{
+                i.next=j;
+                i=j;
+         j = j.next;   // <-- ye line add kar do
+            }
+        }
+         i.next=null;
+         return head;
     }
 }

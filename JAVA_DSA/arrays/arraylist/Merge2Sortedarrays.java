@@ -1,6 +1,6 @@
 package arrays.arraylist;
 
-public class Merge2Sortedarrays { //TC= O(n+m) and SC= O(n+m)
+public class Merge2Sortedarrays {//TC= O(n+m) & SC= O(n+m)
   //3 pointer or varible technique
   public static void main(String[] args) {
     int[] a={1,2,3,4,45};
