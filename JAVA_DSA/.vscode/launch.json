@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HistogramMaxRectangularArea",
+      "request": "launch",
+      "mainClass": "stack.HistogramMaxRectangularArea",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "NumbOfVisiblePeopleInQueue",
+      "request": "launch",
+      "mainClass": "stack.NumbOfVisiblePeopleInQueue",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "StockSpanProblem",
+      "request": "launch",
+      "mainClass": "stack.StockSpanProblem",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
       "name": "NextGreaterElement",
       "request": "launch",
       "mainClass": "stack.NextGreaterElement",
