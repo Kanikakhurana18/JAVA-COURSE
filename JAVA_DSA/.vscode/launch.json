@@ -6,6 +6,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NextGreaterElement",
+      "request": "launch",
+      "mainClass": "stack.NextGreaterElement",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "RemoveNodesFromLinkedList",
+      "request": "launch",
+      "mainClass": "stack.RemoveNodesFromLinkedList",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "BaseballGame",
+      "request": "launch",
+      "mainClass": "stack.BaseballGame",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "RemoveConsecutiveCharacters",
+      "request": "launch",
+      "mainClass": "stack.RemoveConsecutiveCharacters",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "ParenthesisChecker",
+      "request": "launch",
+      "mainClass": "stack.ParenthesisChecker",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "ImplementationViaLinkedListOfStack",
+      "request": "launch",
+      "mainClass": "stack.ImplementationViaLinkedListOfStack",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "ReverseRecursively",
+      "request": "launch",
+      "mainClass": "stack.ReverseRecursively",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "PushElementAtBottom",
+      "request": "launch",
+      "mainClass": "stack.PushElementAtBottom",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "stack.Reverse",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "AddRemovePeekAnyPosition",
+      "request": "launch",
+      "mainClass": "stack.AddRemovePeekAnyPosition",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "TraverseTopToBottom",
+      "request": "launch",
+      "mainClass": "stack.TraverseTopToBottom",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
+      "name": "BasicStackOperations",
+      "request": "launch",
+      "mainClass": "stack.BasicStackOperations",
+      "projectName": "JAVA_DSA_29c6008c"
+    },
+    {
+      "type": "java",
       "name": "InsertInCircularSortedLinkedList",
       "request": "launch",
       "mainClass": "linkedList.InsertInCircularSortedLinkedList",
