@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "WinnerOfCircularGame",
+      "request": "launch",
+      "mainClass": "queue.WinnerOfCircularGame",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ReverseFirstKelements",
+      "request": "launch",
+      "mainClass": "queue.ReverseFirstKelements",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ReverseQueue",
+      "request": "launch",
+      "mainClass": "queue.ReverseQueue",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "AddRemovePeekAtAnyPosition",
+      "request": "launch",
+      "mainClass": "queue.AddRemovePeekAtAnyPosition",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "TraversalInQueue",
+      "request": "launch",
+      "mainClass": "queue.TraversalInQueue",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PatternInterview",
+      "request": "launch",
+      "mainClass": "stack.PatternInterview",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "ConvertToCircular",
       "request": "launch",
       "mainClass": "linkedList.ConvertToCircular",
