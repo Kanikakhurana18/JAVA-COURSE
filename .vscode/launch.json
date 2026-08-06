@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindNegativeInWindowSizeK",
+      "request": "launch",
+      "mainClass": "queue.FindNegativeInWindowSizeK",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "RearrangementOfQueue",
+      "request": "launch",
+      "mainClass": "queue.RearrangementOfQueue",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ImplementationViaArray",
+      "request": "launch",
+      "mainClass": "queue.ImplementationViaArray",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ImplementationViaLinkedList",
+      "request": "launch",
+      "mainClass": "queue.ImplementationViaLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "WinnerOfCircularGame",
       "request": "launch",
       "mainClass": "queue.WinnerOfCircularGame",
