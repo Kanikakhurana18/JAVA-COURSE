@@ -6,6 +6,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CompleteBinaryTree",
+      "request": "launch",
+      "mainClass": "binaryTrees.CompleteBinaryTree",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PerfectBinaryTree",
+      "request": "launch",
+      "mainClass": "binaryTrees.PerfectBinaryTree",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "BalancedBinaryTree",
+      "request": "launch",
+      "mainClass": "binaryTrees.BalancedBinaryTree",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTreePaths",
+      "request": "launch",
+      "mainClass": "binaryTrees.BinaryTreePaths",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "ZigZagTraversal",
+      "request": "launch",
+      "mainClass": "binaryTrees.ZigZagTraversal",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "LevelOrderTraversalLeetcode",
+      "request": "launch",
+      "mainClass": "binaryTrees.LevelOrderTraversalLeetcode",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "PathSum",
+      "request": "launch",
+      "mainClass": "binaryTrees.PathSum",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "SymmetricTree",
+      "request": "launch",
+      "mainClass": "binaryTrees.SymmetricTree",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "MirrorTree",
+      "request": "launch",
+      "mainClass": "binaryTrees.MirrorTree",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "IdenticalTrees",
+      "request": "launch",
+      "mainClass": "binaryTrees.IdenticalTrees",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "DisplayAndNodeClass",
+      "request": "launch",
+      "mainClass": "binaryTrees.DisplayAndNodeClass",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "FindNegativeInWindowSizeK",
       "request": "launch",
       "mainClass": "queue.FindNegativeInWindowSizeK",
