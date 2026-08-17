@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PathFromRootSpecifiedSum",
+      "request": "launch",
+      "mainClass": "binaryTrees.PathFromRootSpecifiedSum",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "FlattenBtToLinkedList",
+      "request": "launch",
+      "mainClass": "binaryTrees.FlattenBtToLinkedList",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "MinimumDistBwgivenNodes",
+      "request": "launch",
+      "mainClass": "binaryTrees.MinimumDistBwgivenNodes",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "LCA",
+      "request": "launch",
+      "mainClass": "binaryTrees.LCA",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "RightViewOfBinaryTree",
+      "request": "launch",
+      "mainClass": "binaryTrees.RightViewOfBinaryTree",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
+      "name": "DiameterOfBinaryTree",
+      "request": "launch",
+      "mainClass": "binaryTrees.DiameterOfBinaryTree",
+      "projectName": "JAVA COURSE_794c2598"
+    },
+    {
+      "type": "java",
       "name": "CompleteBinaryTree",
       "request": "launch",
       "mainClass": "binaryTrees.CompleteBinaryTree",
